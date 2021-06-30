@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/technitish9123/nasa-apod/static/css/main.8f8146d6.chunk.css",
+    "main.js": "/technitish9123/nasa-apod/static/js/main.b34afeaf.chunk.js",
+    "main.js.map": "/technitish9123/nasa-apod/static/js/main.b34afeaf.chunk.js.map",
+    "runtime-main.js": "/technitish9123/nasa-apod/static/js/runtime-main.27ec0127.js",
+    "runtime-main.js.map": "/technitish9123/nasa-apod/static/js/runtime-main.27ec0127.js.map",
+    "static/js/2.4f09ee6a.chunk.js": "/technitish9123/nasa-apod/static/js/2.4f09ee6a.chunk.js",
+    "static/js/2.4f09ee6a.chunk.js.map": "/technitish9123/nasa-apod/static/js/2.4f09ee6a.chunk.js.map",
+    "static/js/3.1297a6e5.chunk.js": "/technitish9123/nasa-apod/static/js/3.1297a6e5.chunk.js",
+    "static/js/3.1297a6e5.chunk.js.map": "/technitish9123/nasa-apod/static/js/3.1297a6e5.chunk.js.map",
+    "index.html": "/technitish9123/nasa-apod/index.html",
+    "static/css/main.8f8146d6.chunk.css.map": "/technitish9123/nasa-apod/static/css/main.8f8146d6.chunk.css.map",
+    "static/js/2.4f09ee6a.chunk.js.LICENSE.txt": "/technitish9123/nasa-apod/static/js/2.4f09ee6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ec0127.js",
+    "static/js/2.4f09ee6a.chunk.js",
+    "static/css/main.8f8146d6.chunk.css",
+    "static/js/main.b34afeaf.chunk.js"
+  ]
+}
